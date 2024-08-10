@@ -1,0 +1,13 @@
+				Dear Yugensys Team
+
+	To import Zoho email files into Outlook, follow these steps:
+
+1. Begin by extracting the Zoho email zip folder that you exported individually, including the Inbox, Sent, Notifications, and Newsletter folders.
+2. Install the file named "Install.exe" found within the extracted folder.
+3. Once installation is complete, run the "savemail.vbs" script by double-clicking on it.
+4. A popup message will appear prompting you to select the source folder that you wish to import first.
+5. Another popup will appear in your Outlook application, allowing you to choose the destination folder where you want to import the emails.
+6. Click on the "Agree" button and then click "OK".
+7. The email files will begin importing.
+8. Once the import is complete, a popup message will appear confirming that the files have been imported successfully.
+9. Repeat these steps for any additional folders you wish to import.

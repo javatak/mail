@@ -1,0 +1,32 @@
+# Virtual environment
+venv/
+ENV/
+env/
+venv.bak/
+*.pyc
+__pycache__/
+
+# Django specific files
+db.sqlite3
+*.sqlite3
+*.log
+
+# Secret settings (if applicable)
+.secret
+.env
+
+# Static files (can be generated)
+staticfiles/
+static/
+
+# Media files
+media/
+
+# Local settings
+settings_local.py
+
+# MacOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
